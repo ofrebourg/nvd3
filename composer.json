@@ -1,5 +1,5 @@
 {
-  "name": "novus/nvd3",
+  "name": "ofrebourg/nvd3",
   "description": "A reusable charting library written in d3.js",
   "keywords": [
     "nvd3",
@@ -7,7 +7,7 @@
     "chart",
     "graph"
   ],
-  "homepage": "https://github.com/novus/nvd3",
+  "homepage": "https://github.com/ofrebourg/nvd3",
   "license": "Apache-2.0",
   "authors": [
     {
