@@ -40,7 +40,7 @@ No, we do not...  we are very interested in taking this on but could use some he
 
 ## Changelog
 
-**1.8.6** Changes:
+**1.8.7** Changes:
 
 * Community bugfixes
 

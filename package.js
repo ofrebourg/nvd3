@@ -5,7 +5,7 @@
 Package.describe({
     "name": 'nvd3:nvd3',
     summary: 'Nvd3.org charts.',
-    version: '1.8.6',
+    version: '1.8.7',
     git: "https://github.com/ofrebourg/nvd3.git"
 });
 Package.on_use(function (api) {
