@@ -163,6 +163,8 @@ nv.models.line = function() {
                     .y(function(d,i) { return nv.utils.NaNtoZero(y(getY(d,i))) })
             );
 
+            scatterWrap.call(scatter);
+            
             //store old scales for use in transitions on update
             x0 = x.copy();
             y0 = y.copy();

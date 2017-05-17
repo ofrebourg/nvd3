@@ -477,6 +477,8 @@ nv.models.scatter = function() {
                 .style('stroke-opacity', 1)
                 .style('fill-opacity', .5);
 
+            groups.selectAll('path.nv-point').remove();
+
             // create the points, maintaining their IDs from the original data set
             var points = groups.selectAll('path.nv-point')
                 .data(function(d) {
